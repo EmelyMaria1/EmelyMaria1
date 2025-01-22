@@ -14,7 +14,8 @@
  
 <br>
  
-### 
+### 🔍 Apaixonado por tecnologia, programação e soluções inovadoras. 📚 Em constante aprendizado e sempre aberto a novos desafios!
+
  
 <div> 
 
