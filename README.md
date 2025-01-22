@@ -1,9 +1,9 @@
-## Bem-vindo(a) ao perfil 😁
+## Bem-vindo(a) ao meu perfil 😁
 
  <div>
    <a href="https://github.com/EmelyMaria1">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EmelyMaria1&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmelyMaria1&layout=compact&langs_count=6&theme=tokyonight"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=EmelyMaria1&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=EmelyMaria1&layout=compact&langs_count=6&theme=merko"/>
 </div>
     
 <div style="display: inline_block"><br>
@@ -17,7 +17,7 @@
 ### 
  
 <div> 
-  <a href="https://www.youtube.com/EmelyMaria1" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
+
   <a href="https://instagram.com/Emelymaria_basilio" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
  
 </div>
